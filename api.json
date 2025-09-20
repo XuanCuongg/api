@@ -2,8 +2,8 @@
     "default": [
         {
             "type": "url",
-            "url": "./music/buonia_1.mp3",
-            "title": "DIT"
+            "url": "",
+            "title": "NULL"
         }
     ],
     "lofi": [
