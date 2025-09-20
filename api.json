@@ -9,16 +9,22 @@
     "lofi": [
         {
             "type": "url",
-            "url": "https://www.dropbox.com/scl/fi/kzb5l52nuvkdxyyx6o7uu/lofi1.mp3?rlkey=wlk50onwdgz23gk8oyqqlccnn&st=re1nbhim&dl=0",
+            "url": "https://dl.dropbox.com/scl/fi/kzb5l52nuvkdxyyx6o7uu/lofi1.mp3?rlkey=wlk50onwdgz23gk8oyqqlccnn&st=re1nbhim&dl=0",
             "title": "Lofi Chill 1"
         }
     ],
     "houselak": [
         {
             "type": "url",
-            "url": "https://dl.dropbox.com/scl/fi/abc123/houselak_1.mp3?dl=0",
+            "url": "https://dl.dropbox.com/scl/fi/c4syebimlw03nxtoov5rt/buonia_7.mp3?rlkey=mwx9nqusrlv911sx3wf4dedeq&st=5bh6nkgo&dl=0",
             "title": "Houselak 1"
-        }
+        };
+        {
+            "type": "url",
+            "url": "https://dl.dropbox.com/scl/fi/nlod1559z5v7wkmo7r8mc/buonia_8.mp3?rlkey=nocfyd4b3pjz0kohyht1t30jc&st=8yrodo2k&dl=0",
+            "title": "Houselak 2"
+        };
+        
     ],
     "viahouse": [
         {
