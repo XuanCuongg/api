@@ -1,15 +1,30 @@
-                    default: [
-                        { type: 'url', url: './music/buonia_1.mp3', title: 'Buonia 1' },
-                    ],
-                    lofi: [
-                        { type: 'url', url: 'https://dl.dropbox.com/scl/fi/i1to9t3nwwrx1mbby645h/smooth_1.mp3?rlkey=avf9zxygp3rnuifcrfuhqnlcm&st=axiidmih&dl=0', title: 'Smooth Lofi 1' },
-                        // Thêm các link lofi khác ở đây
-                    ],
-                    houselak: [
-                        { type: 'url', url: 'https://dl.dropbox.com/scl/fi/abc123/houselak_1.mp3?dl=0', title: 'Houselak 1' },
-                        // Thêm các link houselak khác ở đây
-                    ],
-                    viahouse: [
-                        { type: 'url', url: 'https://dl.dropbox.com/scl/fi/i1to9t3nwwrx1mbby645h/smooth_1.mp3?rlkey=avf9zxygp3rnuifcrfuhqnlcm&st=axiidmih&dl=0', title: 'Vinahouse 1' },
-                        // Thêm các link vinahouse khác ở đây
-                    ]
+{
+    "default": [
+        {
+            "type": "url",
+            "url": "./music/buonia_1.mp3",
+            "title": "Buonia 1"
+        }
+    ],
+    "lofi": [
+        {
+            "type": "url",
+            "url": "https://dl.dropbox.com/scl/fi/i1to9t3nwwrx1mbby645h/smooth_1.mp3?rlkey=avf9zxygp3rnuifcrfuhqnlcm&st=axiidmih&dl=0",
+            "title": "Smooth Lofi 1"
+        }
+    ],
+    "houselak": [
+        {
+            "type": "url",
+            "url": "https://dl.dropbox.com/scl/fi/abc123/houselak_1.mp3?dl=0",
+            "title": "Houselak 1"
+        }
+    ],
+    "viahouse": [
+        {
+            "type": "url",
+            "url": "https://dl.dropbox.com/scl/fi/i1to9t3nwwrx1mbby645h/smooth_1.mp3?rlkey=avf9zxygp3rnuifcrfuhqnlcm&st=axiidmih&dl=0",
+            "title": "Vinahouse 1"
+        }
+    ]
+}
